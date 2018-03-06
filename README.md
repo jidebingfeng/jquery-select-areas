@@ -88,3 +88,7 @@ manipulate and retrieve these areas:
  - **destroy ()** : remove the *selectAreas* plugin
  - **blurAll ()** : blur (unfocus) all the areas
  - **contains (point)** : return true or false whether or not a point ({x: X, y: Y}) is included in at least one area
+ 
+ 
+ ### Other libs
+ http://odyniec.net/projects/imgareaselect/usage.html
